@@ -103,7 +103,7 @@ void display(void)
     glEnd();
     glFlush ();
 
-    ///Vertical Rectangle
+    ///Horizontal Rectangle
     glBegin(GL_POLYGON);
     glColor3f (1.000, 0.0, 0.0);
     glVertex2f(17,20);

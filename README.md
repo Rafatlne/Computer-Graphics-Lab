@@ -3,6 +3,11 @@
 ## Instruction
 Instruction on How to install GLUT and use the library is attached in the [extra](extra/instruction.docx) folder.
 
+## Instruction for Windows
+1.Run Codeblocks.
+
+2.Open any of the exiting project.
+
 ## Instruction for Linux
 Linux comes with opengl out of the box. But for these projects you will also need a library GLUT in ubuntu install free glut
 
