@@ -15,7 +15,7 @@ To run the code use the following command
 ## Screenshot
 
 1. Moonlit-night
-![image](moonlit-night.png)
+![image](https://github.com/Rafatlne/Computer-Graphics-Lab/tree/master/moonlit-night/moonlit-night.PNG)
 
 2. Star
 ![Star](https://github.com/Rafatlne/Computer-Graphics-Lab/blob/master/Star/Star.PNG)
