@@ -15,10 +15,13 @@ To run the code use the following command
 ## Screenshot
 
 1. Moonlit-night
-![image](https://github.com/Rafatlne/Computer-Graphics-Lab/tree/master/moonlit-night/moonlit-night.PNG)
 
-2. Star
+![Moonlit-night](https://github.com/Rafatlne/Computer-Graphics-Lab/blob/master/moonlit-night/moonlit-night.PNG)
+
+2.Star
+
 ![Star](https://github.com/Rafatlne/Computer-Graphics-Lab/blob/master/Star/Star.PNG)
 
-3. Star Inside Circle
+3.Star Inside Circle
+
 ![Star-Inside-Circle](https://github.com/Rafatlne/Computer-Graphics-Lab/blob/master/Star-Inside-Circle/Star-inside-circle.PNG)
